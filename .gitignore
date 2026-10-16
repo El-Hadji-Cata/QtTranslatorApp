@@ -1,0 +1,17 @@
+# Dossiers de compilation CMake
+build/
+CMakeCache.txt
+CMakeFiles/
+*.cmake
+*.rule
+
+# Fichiers de session et préférences de Qt Creator
+*.user
+*.pro.user
+
+# Binaires et exécutables générés
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
